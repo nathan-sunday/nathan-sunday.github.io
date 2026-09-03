@@ -60,7 +60,7 @@ Decentralization is widely argued to improve public service delivery, yet its ef
 ---
 ## Work in Progress
 
-**Using Digital Connectivity to Expand Global Job Opportunities for African Workers**,  (with [Dean Yang](https://deanyang-econ.github.io/deanyang/), David Mckenzie, Heesung Kim, Robertson Khataza, and Ted Lui).  AEA RCT Registry. July 08, 2026. [https://doi.org/10.1257/rct.16818-2.0](https://doi.org/10.1257/rct.16818-2.0)
+**Using Digital Connectivity to Expand Global Job Opportunities for African Workers**,  (with [Dean Yang](https://deanyang-econ.github.io/deanyang/), [David Mckenzie](https://sites.google.com/site/decrgdmckenzie/home?authuser=0), Heesung Kim, Robertson Khataza, and Ted Lui).  AEA RCT Registry. July 08, 2026. [https://doi.org/10.1257/rct.16818-2.0](https://doi.org/10.1257/rct.16818-2.0)
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
