@@ -2,13 +2,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Working Papers"
-    url: /working-papers/
-  - title: "Publications"
-    url: /publications/
+  #- title: "Working Papers"
+  #  url: /working-papers/
+ # - title: "Publications"
+   # url: /publications/
   - title: "Policy Research"
     url: /policy-research/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
-    url: https://github.com/nathan-sunday/Nathan-Sunday-CV/blob/main/CV_NS_2026.pdf
+    url: https://raw.githubusercontent.com/nathan-sunday/Nathan-Sunday-CV/main/CV_NS_2026.pdf
