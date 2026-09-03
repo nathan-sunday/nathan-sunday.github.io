@@ -24,7 +24,7 @@ You can view my CV [here](https://github.com/nathan-sunday/Nathan-Sunday-CV/blob
 ---
 ## Working Papers
 
-[**Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://github.com/nathan-sunday/Working-Papers/blob/main/Commercial_Property_Taxation__Firm__and_Fiscal_Externality.pdf), (Job Market Paper), [[PDF]](https://github.com/nathan-sunday/Working-Papers/blob/main/Commercial_Property_Taxation__Firm__and_Fiscal_Externality.pdf), August 2026  
+[**Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://github.com/nathan-sunday/Working-Papers/blob/main/Commercial_Property_Taxation__Firm__and_Fiscal_Externality.pdf), **(Job Market Paper)**, [[PDF]](https://github.com/nathan-sunday/Working-Papers/blob/main/Commercial_Property_Taxation__Firm__and_Fiscal_Externality.pdf), August 2026  
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
