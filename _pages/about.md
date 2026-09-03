@@ -38,6 +38,9 @@ Property taxation is widely viewed as a promising source of revenue for developi
 
 [**Old-Age Pension and Labor Market Outcomes of Younger Individuals: Evidence from Uganda**](https://github.com/nathan-sunday/Working-Papers/blob/main/Pension_and_Labor_Market__Paper_Version_Aug_2025.pdf), [[PDF]](https://github.com/nathan-sunday/Working-Papers/blob/main/Pension_and_Labor_Market__Paper_Version_Aug_2025.pdf), October 2024 
 
+Presented at the [6th World Bank/IFS/ODI Public Finance Conference](https://www.worldbank.org/en/events/2024/03/01/6th-world-bank-ifs-odi-research-conference), 2024, Washington DC. 
+
+
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
 
