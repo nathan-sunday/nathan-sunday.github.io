@@ -4,8 +4,8 @@ main:
     url: /
   #- title: "Working Papers"
   #  url: /working-papers/
- # - title: "Publications"
-   # url: /publications/
+ - title: "Publications"
+    url: /publications/
   - title: "Policy Research"
     url: /policy-research/
   - title: "Teaching"
