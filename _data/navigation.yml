@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Working Papers"
-    url: /working-papers/
+  #- title: "Working Papers"
+  #  url: /working-papers/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
