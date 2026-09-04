@@ -1,6 +1,6 @@
 ---
 permalink: /policy-research/
-title: "Policy Research"
+title: ""
 author_profile: true
 ---
 
