@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% https://github.com/nathan-sunday/Nathan-Sunday-CV/blob/main/CV_NS_2026.pdf %}
+[**CV**](https://github.com/nathan-sunday/Nathan-Sunday-CV/blob/main/CV_NS_2026.pdf)
 
