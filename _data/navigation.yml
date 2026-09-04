@@ -6,6 +6,8 @@ main:
   #  url: /working-papers/
   - title: "Publications"
     url: /publications/
+  - title: "Policy Research"
+    url: /policy-research/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
