@@ -1,11 +1,11 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "" 
 author_profile: true
 ---
 
 ---
-## Pre-Doctoral Research
+## Pre-Doctoral Publications
 
 **Peer-Reviewed Publications**
 
