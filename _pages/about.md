@@ -15,7 +15,7 @@ My research interests lie at the intersection of public and development economic
 
 I previously worked as a Research Analyst at the [Economic Policy Research Centre (EPRC)](https://eprcug.org/), a policy research think tank in Uganda. I have also gained exposure to national development planning processes through my role as a PhD Fellow at the [National Planning Authority (Uganda)](https://npa.go.ug/) in the summer of 2024. I hold a Master of Arts in Economics and a Bachelor of Science in Education (Economics and Mathematics) from Makerere University.
 
-You can view my CV [here](https://github.com/nathan-sunday/Nathan-Sunday-CV/blob/master/CV_NS_2026.pdf).
+You can view my CV [here](https://nathan-sunday.github.io/working-papers/CV_2026_Sunday.pdf).
 
 **Contact:** [nsunday@umich.edu](mailto:nsunday@umich.edu)  
 
@@ -36,7 +36,7 @@ Property taxation is widely viewed as a promising source of revenue for developi
 
 ---
 
-[**Old-Age Pension and Labor Market Outcomes of Younger Individuals: Evidence from Uganda**](https://github.com/nathan-sunday/Working-Papers/blob/master/Pension_and_Labor_Market__Paper_Version_Aug_2025.pdf), [[PDF]](https://github.com/nathan-sunday/Working-Papers/blob/main/Pension_and_Labor_Market__Paper_Version_Aug_2025.pdf), October 2024  <br>
+[**Old-Age Pension and Labor Market Outcomes of Younger Individuals: Evidence from Uganda**](https://nathan-sunday.github.io/working-papers/Old_Age_Pension_and_Labor_Market.pdf), [[PDF]](https://github.com/nathan-sunday/Working-Papers/blob/main/Pension_and_Labor_Market__Paper_Version_Aug_2025.pdf), October 2025  <br>
 *Presented at the [6th World Bank/IFS/ODI Public Finance Conference](https://www.worldbank.org/en/events/2024/03/01/6th-world-bank-ifs-odi-research-conference), 2024, Washington DC*
 
 
