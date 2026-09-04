@@ -6,29 +6,14 @@ author_profile: true
 
 ## Graduate Student Instructor, University of Michigan
 
-<!--
-Add courses here, following this template:
+| Term | Course |
+|:-----|:-------|
+| Winter 2026 | Principles of Economics II, Macroeconomics (ECON 102). Instructor: Oleg Zamulin |
+| Fall 2025   | Intermediate Macroeconomics (ECON 402). Instructor: Rudiger Bachmann |
+| Winter 2025 | Intermediate Macroeconomics (ECON 402). Instructor: [Javier Cravino](https://sites.google.com/a/umich.edu/javiercravino/home) |
+| Fall 2024   | Intermediate Macroeconomics (ECON 402). Instructor: Oleg Zamulin |
+| Winter 2024 | Principles of Economics II, Macroeconomics (ECON 102). Instructor: Maciej Dudek |
+| Fall 2023   | Principles of Economics II, Macroeconomics (ECON 102). Instructor: [Adam Stevenson](https://sites.google.com/umich.edu/adamstev/home) |
+| Winter 2023 | Principles of Economics II, Macroeconomics (ECON 102). Instructor: Maciej Dudek |
+| Fall 2022   | Principles of Economics II, Macroeconomics (ECON 102). Instructor: Oleg Zamulin |
 
-**Course Name (ECON XXX)** — Term Year  
-Instructor: Professor Name  
-Role: Graduate Student Instructor (or Discussion Section Leader, etc.)  
-Brief description if relevant.
-
----
--->
-
-## Prior Teaching, Makerere University
-
-<!-- 
-Add prior teaching experience here if applicable.
--->
-
-## Teaching Materials
-
-<!--
-Add links to any publicly shareable teaching materials, syllabi, or notes here.
-
-Example:
-- [Syllabus, ECON XXX, Fall 2025](https://github.com/nathan-sunday/teaching/blob/main/syllabus.pdf)
-- [Problem set solutions](https://github.com/nathan-sunday/teaching/tree/main/problem-sets)
--->
