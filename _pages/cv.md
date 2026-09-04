@@ -5,5 +5,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-[**Click to view my CV**](https://raw.githubusercontent.com/nathan-sunday/Nathan-Sunday-CV/blob/master/CV_NS_2026.pdf)
+[**Click to view my CV**](https://nathan-sunday.github.io/working-papers/CV_2026_Sunday.pdf)
 
