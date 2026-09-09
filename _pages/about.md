@@ -24,7 +24,8 @@ You can view my CV [here](https://nathan-sunday.github.io/working-papers/CV_2026
 ---
 ## Working Papers
 
-[**Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), **(Job Market Paper)**, [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), August 2026  
+[**Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), **(Job Market Paper)**, [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), August 2026  <br>
+*To be presented at the [8th World Bank/ODI Global/IFS Public Finance Conference](https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference), 2026, Washington DC*  
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
