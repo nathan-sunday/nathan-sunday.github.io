@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am a PhD candidate in the [Department of Economics](https://lsa.umich.edu/econ) at the University of Michigan and am on the **2026–27 economics job market**. 
+I am a PhD candidate in the [Department of Economics](https://lsa.umich.edu/econ) at the University of Michigan and am on the **2026–2027 economics job market**. 
 
 My research interests lie at the intersection of public and development economics, with a focus on how fiscal policy and institutional reforms shape firm behavior, labor markets, and economic development. My current work uses administrative firm-level tax data from Uganda to study how property taxation and decentralization affect firm behavior, the fiscal capacity of the central state, as well as welfare implications.
 
