@@ -1,4 +1,4 @@
----
+<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/32bee799-e2c5-42bc-b375-c6c48185b269" /><img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/60c8ae8f-f1cb-4853-b931-991059efb14e" />---
 permalink: /
 title: "Nathan Sunday"
 author_profile: true
@@ -11,7 +11,7 @@ Welcome to my homepage!
 
 I am a PhD candidate in the [Department of Economics](https://lsa.umich.edu/econ) at the University of Michigan and am on the **2026–2027 economics job market**. 
 
-My research interests lie at the intersection of public and development economics, with a focus on how fiscal policy and institutional reforms shape firm behavior, labor markets, and economic development. My current work uses administrative firm-level tax data from Uganda to study how property taxation and decentralization affect firm behavior, the fiscal capacity of the central state, as well as welfare implications.
+My research interests lie at the intersection of public and development economics, with a focus on how fiscal policy and institutional reforms shape firms, labor markets, and economic development. My current work uses administrative firm-level tax data from Uganda to study how property taxation and decentralization affect firm activity and the fiscal capacity of the central government, as well as their broader welfare implications. 
 
 I previously worked as a Research Analyst at the [Economic Policy Research Centre (EPRC)](https://eprcug.org/), a policy research think tank in Uganda. I have also gained exposure to national development planning processes through my role as a PhD Fellow at the [National Planning Authority (Uganda)](https://npa.go.ug/) in the summer of 2024. I hold a Master of Arts in Economics and a Bachelor of Science in Education (Economics and Mathematics) from Makerere University.
 
