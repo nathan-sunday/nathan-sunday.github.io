@@ -1,4 +1,4 @@
-<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/32bee799-e2c5-42bc-b375-c6c48185b269" /><img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/60c8ae8f-f1cb-4853-b931-991059efb14e" />---
+
 permalink: /
 title: "Nathan Sunday"
 author_profile: true
