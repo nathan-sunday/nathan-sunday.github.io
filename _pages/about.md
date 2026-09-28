@@ -25,7 +25,7 @@ You can view my CV [here](https://nathan-sunday.github.io/working-papers/CV_2026
 ## Working Papers
 
 [**Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), **(Job Market Paper)**, [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), August 2026  <br>
-*To be presented at the [8th World Bank/ODI Global/IFS Public Finance Conference](https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference), 2026, Washington DC*  
+*Presented at the [8th World Bank/ODI Global/IFS Public Finance Conference](https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference), 2026, Washington DC*  
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
@@ -50,12 +50,12 @@ In most low-income countries, younger individuals play a central role in providi
 
 ---
 
-**Decentralization, Firm Performance, and Fiscal Capacity: Evidence from Uganda**
+[**Decentralization, Firm Performance, and Fiscal Capacity: Evidence from Uganda**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Jovitah Namutebi)
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
 
-Decentralization is widely argued to improve public service delivery, yet its effects on private-sector activity and state fiscal capacity remain poorly understood. We study these effects in Uganda, exploiting the 2015/16 wave of district creation, in which 23 new districts were carved out of existing ones. Using firm-level administrative tax data in a staggered difference-in-differences design, we find that district creation increases firm revenues by approximately 13 percent, with effects emerging two years after the reform and growing thereafter. The revenue gains are accompanied by higher expenditures on intermediate inputs and labor, as well as increases in formal employment and the formal wage bill, while profits respond only modestly. Improved electricity reliability is one mechanism underlying these effects. The gains depend critically on administrative design: revenue increases are concentrated in relatively symmetric district splits, while highly asymmetric splits generate no detectable effects. Decentralization also strengthens the fiscal capacity of the central government, increasing corporate income tax remittances and effective tax rates, while expansion of the formal wage bill raises labor income tax revenue. Overall, the results show that decentralization can stimulate private-sector activity and central revenue mobilization, but that these gains depend importantly on the configuration of newly created jurisdictions.
+Decentralization is widely argued to improve public service delivery, yet its effects on private-sector activity and state fiscal capacity remain poorly understood. We study these effects in Uganda, exploiting the 2015/16 wave of district creation, in which 23 new districts were carved out of existing ones, using firm-level administrative tax records and government budget data in a staggered difference-in-differences design. First, we find that district creation increased intergovernmental grant allocations per capita by approximately 11 percent, expanding the fiscal resources available to affected local governments. Turning to firm activity, we find that the reform increased firm revenues by approximately 13 percent, with effects emerging two years after district splitting and growing thereafter. The revenue gains are accompanied by higher expenditures on intermediate inputs and labor, as well as expansions in formal employment and the formal wage bill, while profits do not significantly increase. Improved electricity reliability is one of the mechanisms underlying the firm performance results, consistent with improvements in local infrastructure critical for firm production. These gains depend critically on administrative design: revenue increases are concentrated in relatively symmetric district splits, while highly asymmetric splits generate no detectable effects. Decentralization also strengthens central fiscal capacity, increasing corporate income tax remittances and effective tax rates, while expansion of the formal wage bill raises labor income tax revenue. Overall, district creation can increase local government resources, stimulate private-sector activity, and strengthen central revenue mobilization, but these gains depend critically on the configuration of newly created jurisdictions.
 
 </details>
 
