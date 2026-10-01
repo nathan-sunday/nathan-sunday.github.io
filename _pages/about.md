@@ -37,6 +37,18 @@ Property taxation is widely viewed as a promising source of revenue for developi
 
 ---
 
+[**Decentralization, Firm Performance, and Fiscal Capacity: Evidence from Uganda**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Jovitah Namutebi)
+
+<details>
+<summary><strong>Abstract</strong> (click to expand)</summary>
+
+Decentralization is widely argued to improve public service delivery, yet its effects on private-sector activity and state fiscal capacity remain poorly understood. We study these effects in Uganda, exploiting the 2015/16 wave of district creation, in which 23 new districts were carved out of existing ones, using firm-level administrative tax records and government budget data in a staggered difference-in-differences design. First, we find that district creation increased intergovernmental grant allocations per capita by approximately 11 percent, expanding the fiscal resources available to affected local governments. Turning to firm activity, we find that the reform increased firm revenues by approximately 13 percent, with effects emerging two years after district splitting and growing thereafter. The revenue gains are accompanied by higher expenditures on intermediate inputs and labor, as well as expansions in formal employment and the formal wage bill, while profits do not significantly increase. Improved electricity reliability is one of the mechanisms underlying the firm performance results, consistent with improvements in local infrastructure critical for firm production. These gains depend critically on administrative design: revenue increases are concentrated in relatively symmetric district splits, while highly asymmetric splits generate no detectable effects. Decentralization also strengthens central fiscal capacity, increasing corporate income tax remittances and effective tax rates, while expansion of the formal wage bill raises labor income tax revenue. Overall, district creation can increase local government resources, stimulate private-sector activity, and strengthen central revenue mobilization, but these gains depend critically on the configuration of newly created jurisdictions.
+
+</details>
+
+
+---
+
 [**Old-Age Pension and Labor Market Outcomes of Younger Individuals: Evidence from Uganda**](https://nathan-sunday.github.io/working-papers/Old_Age_Pension_and_Labor_Market.pdf), [[PDF]](https://github.com/nathan-sunday/Working-Papers/blob/main/Pension_and_Labor_Market__Paper_Version_Aug_2025.pdf), October 2025  <br>
 *Presented at the [6th World Bank/IFS/ODI Public Finance Conference](https://www.worldbank.org/en/events/2024/03/01/6th-world-bank-ifs-odi-research-conference), 2024, Washington DC*
 
@@ -47,18 +59,6 @@ Property taxation is widely viewed as a promising source of revenue for developi
 In most low-income countries, younger individuals play a central role in providing financial support and caregiving for the elderly. Do programs that ease these responsibilities affect the labor market outcomes of younger individuals? I address this question by examining the effects of old-age pensions on the earnings and labor supply of ineligible adults within the household, in the context of Uganda. The findings indicate that an additional year of pension exposure raises monthly sales and profits among self-employed ineligible individuals by 10.2% and 9.5%, respectively, while no significant effects are observed on the earnings of wage employees. Pension exposure also increases weekly hours worked by 1.3%, with effects concentrated among the self-employed. Significant impacts on earnings and labor supply emerge for women but not for men, and the results appear to be largely driven by greater working capital. The effects on earnings are further amplified by access to microcredit and informal networks, highlighting complementarities between cash transfers and the local financial and social environment. Moreover, the gender of the pension recipient proves consequential: pensions received by men, rather than women, significantly affect the labor market outcomes of younger individuals. Taken together, the evidence suggests that old-age pensions ease the resource constraints faced by younger individuals.
 
 </details>
-
----
-
-[**Decentralization, Firm Performance, and Fiscal Capacity: Evidence from Uganda**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Jovitah Namutebi)
-
-<details>
-<summary><strong>Abstract</strong> (click to expand)</summary>
-
-Decentralization is widely argued to improve public service delivery, yet its effects on private-sector activity and state fiscal capacity remain poorly understood. We study these effects in Uganda, exploiting the 2015/16 wave of district creation, in which 23 new districts were carved out of existing ones, using firm-level administrative tax records and government budget data in a staggered difference-in-differences design. First, we find that district creation increased intergovernmental grant allocations per capita by approximately 11 percent, expanding the fiscal resources available to affected local governments. Turning to firm activity, we find that the reform increased firm revenues by approximately 13 percent, with effects emerging two years after district splitting and growing thereafter. The revenue gains are accompanied by higher expenditures on intermediate inputs and labor, as well as expansions in formal employment and the formal wage bill, while profits do not significantly increase. Improved electricity reliability is one of the mechanisms underlying the firm performance results, consistent with improvements in local infrastructure critical for firm production. These gains depend critically on administrative design: revenue increases are concentrated in relatively symmetric district splits, while highly asymmetric splits generate no detectable effects. Decentralization also strengthens central fiscal capacity, increasing corporate income tax remittances and effective tax rates, while expansion of the formal wage bill raises labor income tax revenue. Overall, district creation can increase local government resources, stimulate private-sector activity, and strengthen central revenue mobilization, but these gains depend critically on the configuration of newly created jurisdictions.
-
-</details>
-
 
 ---
 ## Work in Progress
