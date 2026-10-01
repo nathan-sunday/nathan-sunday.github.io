@@ -37,7 +37,7 @@ Property taxation is widely viewed as a promising source of revenue for developi
 
 ---
 
-[**Decentralization, Firm Performance, and Fiscal Capacity: Evidence from Uganda**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Jovitah Namutebi)
+[**The Economic Effects of Decentralization: Firm Performance and Fiscal Capacity**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Jovitah Namutebi)
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
