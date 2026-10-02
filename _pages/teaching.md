@@ -8,6 +8,7 @@ author_profile: true
 
 | Term | Course |
 |:-----|:-------|
+| Fall 2026   | Intermediate Macroeconomics (ECON 402). Instructor: Rudiger Bachmann |
 | Winter 2026 | Principles of Economics II, Macroeconomics (ECON 102). Instructor: Oleg Zamulin |
 | Fall 2025   | Intermediate Macroeconomics (ECON 402). Instructor: Rudiger Bachmann |
 | Winter 2025 | Intermediate Macroeconomics (ECON 402). Instructor: [Javier Cravino](https://sites.google.com/a/umich.edu/javiercravino/home) |
