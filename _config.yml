@@ -5,6 +5,7 @@ title_separator          : "-"
 name                     : &name "Nathan Sunday"
 description              : &description "Nathan Sunday is an Economics PhD candidate at the University of Michigan. His research is in public economics and development economics, with a focus on taxation, firms, labor markets, and state capacity."
 url                      : https://nathan-sunday.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+google_site_verification : dxN1PP26KSXYj0Fwjy_jVk9Bbz0SxxozXa6BU97uM2k
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "nathan-sunday/nathan-sunday.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
