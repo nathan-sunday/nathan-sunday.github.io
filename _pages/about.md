@@ -1,8 +1,10 @@
 ---
 permalink: /
 title: "Nathan Sunday"
+seo_title: "Nathan Sunday | Economics PhD Candidate, University of Michigan"
+description: "Nathan Sunday is an Economics PhD candidate at the University of Michigan specializing in public economics and development economics, with research on taxation, firms, labor markets, and state capacity."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
