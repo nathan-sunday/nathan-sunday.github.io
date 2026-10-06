@@ -50,6 +50,13 @@ author:
   youtube          :
   zhihu            :
 
+social:
+  type: Person
+  name: Nathan Sunday
+  links:
+    - https://scholar.google.com/citations?user=Ma4dAkQAAAAJ&hl=en
+    - https://github.com/nathan-sunday
+    - https://www.linkedin.com/in/nathan-sunday-2b385613a/
 # Reading Files
 include:
   - .htaccess
