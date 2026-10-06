@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://nathan-sunday.github.io/sitemap.xml
