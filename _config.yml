@@ -182,6 +182,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
 
 # Archives
