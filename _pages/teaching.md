@@ -24,6 +24,7 @@ author_profile: true
 
 I have taught 16 discussion sections of ECON 102 (Principles of Economics II) and ECON 402 (Intermediate Macroeconomic Theory) at the University of Michigan from Fall 2022 through Winter 2026. Pooling student evaluations across all sections:
 
+{::nomarkdown}
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 1.5rem 0 0.5rem 0; max-width: 700px;">
   <div style="padding: 1.5rem 1rem; border: 1px solid #e5e5e5; border-radius: 6px; text-align: center; background: #fafbfc;">
     <div style="font-size: 2.5rem; font-weight: 700; color: #0056b3; line-height: 1;">94%</div>
@@ -39,4 +40,5 @@ I have taught 16 discussion sections of ECON 102 (Principles of Economics II) an
   </div>
 </div>
 
-<p style="font-size: 0.85rem; color: #777; margin-top: 0.25rem; margin-bottom: 1.5rem;">Based on 134–137 student responses across 16 discussion sections, Fall 2022 – Winter 2026.</p>
+<p style="font-size: 0.85rem; color: #777; margin-top: 0.25rem; margin-bottom: 1.5rem;">Based on 134&ndash;137 student responses across 16 discussion sections, Fall 2022 &ndash; Winter 2026.</p>
+{:/nomarkdown}
