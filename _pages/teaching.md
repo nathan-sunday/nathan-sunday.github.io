@@ -18,3 +18,23 @@ author_profile: true
 | Winter 2023 | Principles of Economics II, Macroeconomics (ECON 102). Instructor: Maciej Dudek |
 | Fall 2022   | Principles of Economics II, Macroeconomics (ECON 102). Instructor: Oleg Zamulin |
 
+
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 1.5rem 0; max-width: 700px;">
+  <div style="padding: 1.25rem; border: 1px solid #e5e5e5; border-radius: 6px; text-align: center;">
+    <div style="font-size: 2rem; font-weight: 700; color: #0056b3; line-height: 1;">94%</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.4rem;">rated my classroom preparation 4 or 5 out of 5</div>
+  </div>
+  <div style="padding: 1.25rem; border: 1px solid #e5e5e5; border-radius: 6px; text-align: center;">
+    <div style="font-size: 2rem; font-weight: 700; color: #0056b3; line-height: 1;">89%</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.4rem;">rated the clarity of my explanations 4 or 5 out of 5</div>
+  </div>
+  <div style="padding: 1.25rem; border: 1px solid #e5e5e5; border-radius: 6px; text-align: center;">
+    <div style="font-size: 2rem; font-weight: 700; color: #0056b3; line-height: 1;">96%</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.4rem;">rated their treatment with respect 4 or 5 out of 5</div>
+  </div>
+</div>
+
+<p style="font-size: 0.85rem; color: #777; margin-top: 0.5rem;">
+Based on 134–137 student responses across 16 discussion sections of ECON 102 and ECON 402, Fall 2022 – Winter 2026.
+</p>
