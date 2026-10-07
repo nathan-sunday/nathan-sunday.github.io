@@ -24,4 +24,6 @@ author_profile: true
 
 I have taught 16 discussion sections of ECON 102 (Principles of Economics II) and ECON 402 (Intermediate Macroeconomic Theory) at the University of Michigan from Fall 2022 through Winter 2026. Pooling student evaluations across all sections:
 
+{% include eval_tiles.html %}
+
 
