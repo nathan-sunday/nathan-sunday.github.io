@@ -26,7 +26,7 @@ I have taught 6 discussion sections of ECON 402 (Intermediate Macroeconomic Theo
 {% include eval_tiles.html %}
 
 ---
-## Specific Comments
+## Selected Student Comments
 
 
 ![Student comments from Econ 102 Winter 2026](/images/WN102_2026.png)
