@@ -21,8 +21,7 @@ author_profile: true
 ---
 ## Teaching Evaluations
 
-
-I have taught 10 discussion sections of ECON 102 (Principles of Economics II, Macroeconomics) and 6 sections of ECON 402 (Intermediate Macroeconomic Theory) at the University of Michigan from Fall 2022 through Winter 2026. Pooling student evaluations across all sections:
+I have taught 6 discussion sections of ECON 402 (Intermediate Macroeconomic Theory) and 10 sections of ECON 102 (Principles of Economics II, Macroeconomics) at the University of Michigan from Fall 2022 through Winter 2026. Pooling student evaluations across all sections:
 
 {% include eval_tiles.html %}
 
