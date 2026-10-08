@@ -2,7 +2,7 @@
 permalink: /
 title: "Nathan Sunday"
 seo_title: "Nathan Sunday"
-description: "Nathan Sunday is an Economics PhD candidate at the University of Michigan. He is on the 2026-2027 economics job market. His research interests lie at the intersection of public finance and development economics, with a focus on how taxes, transfers, and institutional reforms shape firms, labor markets, and and economic development in developing countries."
+description: "Nathan Sunday is a PhD candidate in Economics at the University of Michigan, on the 2026-2027 economics job market. His research examines how taxes, transfers, and institutional reforms shape firms and labor markets in developing countries."
 author_profile: true
 redirect_from:
   - /about/
