@@ -28,17 +28,31 @@ I have taught 6 discussion sections of ECON 402 (Intermediate Macroeconomic Theo
 ---
 ## Selected Student Comments
 
+<figure style="margin: 1.5rem 0;">
+  <img src="/images/WN102_2026.png" alt="Student comments from Econ 102 Winter 2026" style="max-width: 100%; display: block;">
+  <figcaption style="font-size: 0.85rem; color: #777; font-style: italic; margin-top: 0.4rem; text-align: center;">
+    Econ 102, Winter 2026
+  </figcaption>
+</figure>
 
-![Student comments from Econ 102 Winter 2026](/images/WN102_2026.png)  
-*Econ 102, Winter 2026*
+<figure style="margin: 1.5rem 0;">
+  <img src="/images/FALL402_2025.png" alt="Student comments from Econ 402 Fall 2025" style="max-width: 100%; display: block;">
+  <figcaption style="font-size: 0.85rem; color: #777; font-style: italic; margin-top: 0.4rem; text-align: center;">
+    Econ 402, Fall 2025
+  </figcaption>
+</figure>
 
-![Student comments from Econ 402 Fall 2025](/images/FALL402_2025.png)  
-*Econ 402, Fall 2025*
+<figure style="margin: 1.5rem 0;">
+  <img src="/images/WN402_2025.png" alt="Student comments from Econ 402 Winter 2025" style="max-width: 100%; display: block;">
+  <figcaption style="font-size: 0.85rem; color: #777; font-style: italic; margin-top: 0.4rem; text-align: center;">
+    Econ 402, Winter 2025
+  </figcaption>
+</figure>
 
-![Student comments from Econ 402 Winter 2025](/images/WN402_2025.png)  
-*Econ 402, Winter 2025*
-
-![Student comments from Econ 102 Fall 2023](/images/FALL102_2023.png)  
-*Econ 102, Fall 2023*
-
+<figure style="margin: 1.5rem 0;">
+  <img src="/images/FALL102_2023.png" alt="Student comments from Econ 102 Fall 2023" style="max-width: 100%; display: block;">
+  <figcaption style="font-size: 0.85rem; color: #777; font-style: italic; margin-top: 0.4rem; text-align: center;">
+    Econ 102, Fall 2023
+  </figcaption>
+</figure>
 
