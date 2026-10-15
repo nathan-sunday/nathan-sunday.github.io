@@ -26,7 +26,7 @@ I have taught undergraduate-level Intermediate Macroeconomics (ECON 402) for 4 s
 {% include eval_tiles.html %}
 
 ---
-## Selected Student Comments
+## Average Rating
 ![Student ratings](/images/teaching_ratings.png)  
 
 ---
