@@ -18,8 +18,8 @@ My research focuses on public finance with applications in developing countries.
 
 I previously worked as a Research Analyst at the [Economic Policy Research Centre (EPRC)](https://eprcug.org/), a policy research think tank in Uganda. I have also gained exposure to national development planning processes through my role as a PhD Fellow at the [National Planning Authority (Uganda)](https://npa.go.ug/) in the summer of 2024. I hold a Master of Arts in Economics and a Bachelor of Science in Education (Economics and Mathematics) from Makerere University.
 
-You can view my **CV** [here](https://nathan-sunday.github.io/working-papers/CV_2026_Sunday.pdf) <br>
-You can view my **Research Statement** [here](https://nathan-sunday.github.io/working-papers/Research_Statement.pdf)
+You can view my CV [here](https://nathan-sunday.github.io/working-papers/CV_2026_Sunday.pdf) <br>
+You can view my Research Statement [here](https://nathan-sunday.github.io/working-papers/Research_Statement.pdf)
 
 **Contact:** [nsunday@umich.edu](mailto:nsunday@umich.edu)  
 
