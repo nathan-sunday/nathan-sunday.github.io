@@ -20,7 +20,7 @@ I previously worked as a Research Analyst at the [Economic Policy Research Centr
 
 You can view my CV [here](https://nathan-sunday.github.io/working-papers/CV_2026_Sunday.pdf).
 
-You can view my Research Statement [here](https://nathan-sunday.github.io/working-papers/CV_2026_Sunday.pdf).
+You can view my Research Statement [here](https://nathan-sunday.github.io/working-papers/Research_Statement.pdf).
 
 **Contact:** [nsunday@umich.edu](mailto:nsunday@umich.edu)  
 
