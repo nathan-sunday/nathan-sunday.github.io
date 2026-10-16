@@ -79,7 +79,7 @@ Sub-Saharan Africa faces high youth unemployment as the number of young people e
 
 
 ---
-## Selected Pre-Doctoral Publications
+## Selected Publications
 
 
 **Papers**
