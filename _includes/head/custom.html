@@ -1,22 +1,36 @@
-{% include base_path %}
+<!-- Favicon -->
+<link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/images/favicon.png">
+<link rel="icon" type="image/png" sizes="48x48" href="{{ site.baseurl }}/images/favicon-48.png">
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/images/favicon.png">
 
-<!-- start custom head snippets -->
+<!-- Site name for Google Search -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Nathan Sunday",
+  "url": "https://nathan-sunday.github.io/"
+}
+</script>
 
-<!-- Support for Academicons -->
-<link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></noscript>
-
-<!-- Support for Font Awesome -->
- <link rel="preload" href="{{ base_path }}/assets/css/fontawesome.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{ base_path }}/assets/css/fontawesome.css"></noscript>
-
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
-<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
-<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
-<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
-<link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="var(--global-bg-color)"/>
-
-<!-- end custom head snippets -->
+<!-- Person schema (helps Google build a knowledge panel) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nathan Sunday",
+  "url": "https://nathan-sunday.github.io/",
+  "image": "https://nathan-sunday.github.io/images/profile.jpg",
+  "jobTitle": "PhD Candidate in Economics",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Michigan"
+  },
+  "email": "mailto:nsunday@umich.edu",
+  "sameAs": [
+    "https://scholar.google.com/citations?user=Ma4dAkQAAAAJ&hl=en",
+    "https://github.com/nathan-sunday",
+    "http://linkedin.com/in/nathan-sunday-2b385613a"
+  ]
+}
+</script>
