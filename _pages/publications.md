@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ---
-## Selected Pre-Doctoral Publications
+## Selected Publications
 
 **Peer-Reviewed Publications**
 
