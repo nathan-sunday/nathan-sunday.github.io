@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-You can view my Research Statement [here](https://nathan-sunday.github.io/working-papers/Teaching_Statement_Sunday.pdf)
+You can view my Teaching Statement [here](https://nathan-sunday.github.io/working-papers/Teaching_Statement_Sunday.pdf)
 
 ## Graduate Student Instructor, University of Michigan
 
