@@ -28,7 +28,7 @@ You can view my Research Statement [here](https://nathan-sunday.github.io/workin
 ---
 ## Working Papers
 
-[**Beyond Local Revenue: Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), **(Job Market Paper)**, [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), August 2026  <br>
+[**Beyond Local Revenue: Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), **(Job Market Paper)**, [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), October 2026  <br>
 *Conferences: The [8th World Bank/ODI Global/IFS Public Finance Conference](https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference), 2026, Washington DC; [119th National Tax Association Annual Conference](https://ntanet.org/2026/02/119th-annual-conference-on-taxation-2026/) (Scheduled), 2026, Pittsburgh, PA*  
 
 <details>
@@ -41,7 +41,7 @@ Property taxation is widely viewed as a promising source of revenue for developi
 
 ---
 
-[**The Economic Effects of Decentralization: Firm Performance and Fiscal Capacity**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Laston Manja and Jovitah Namutebi)
+[**The Economic Effects of Decentralization: Firm Performance and Fiscal Capacity**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Laston Manja and Jovitah Namutebi), September 2025
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
@@ -53,7 +53,7 @@ Decentralization is widely argued to improve public service delivery, yet its ef
 
 ---
 
-[**Beyond the Beneficiary: Old-Age Pensions and the Labor Market Outcomes of Ineligible Adults**](https://nathan-sunday.github.io/working-papers/Old_Age_Pension_and_Labor_Market.pdf), October 2025  <br>
+[**Beyond the Beneficiary: Old-Age Pensions and the Labor Market Outcomes of Ineligible Adults**](https://nathan-sunday.github.io/working-papers/Old_Age_Pension_and_Labor_Market.pdf), April 2026  <br>
 *Presented at the [6th World Bank/IFS/ODI Public Finance Conference](https://www.worldbank.org/en/events/2024/03/01/6th-world-bank-ifs-odi-research-conference), 2024, Washington DC*
 
 
