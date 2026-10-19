@@ -27,6 +27,8 @@ I have taught undergraduate-level Intermediate Macroeconomics (ECON 402) for 4 s
 
 {% include eval_tiles.html %}
 
+You can view my detailed teaching evaluations [here](https://nathan-sunday.github.io/working-papers/Teaching_Evaluations_Sunday.pdf).
+
 ---
 ## Average Rating
 ![Student ratings](/images/teaching_ratings.png)  
