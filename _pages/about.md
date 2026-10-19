@@ -26,7 +26,7 @@ You can view my Research Statement [here](https://nathan-sunday.github.io/workin
 
 
 ---
-## Working Papers
+## Job Market Paper
 
 [**Beyond Local Revenue: Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), **(Job Market Paper)**, [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_jmp.pdf), October 2026  <br>
 *Conferences: The [8th World Bank/ODI Global/IFS Public Finance Conference](https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference), 2026, Washington DC; [119th National Tax Association Annual Conference](https://ntanet.org/2026/02/119th-annual-conference-on-taxation-2026/) (Scheduled), 2026, Pittsburgh, PA*  
@@ -40,6 +40,7 @@ Property taxation is widely viewed as a promising source of revenue for developi
 
 
 ---
+## Working Papers
 
 [**The Economic Effects of Decentralization: Firm Performance and Fiscal Capacity**](https://nathan-sunday.github.io/working-papers/Decentralization_Firms_Fiscal_Capacity.pdf), (with Laston Manja and Jovitah Namutebi), September 2026
 
@@ -49,7 +50,6 @@ Property taxation is widely viewed as a promising source of revenue for developi
 Decentralization is widely argued to improve public service delivery, yet its effects on private-sector activity and fiscal capacity remain poorly understood. We study Uganda’s 2015/16 creation of 23 new districts using administrative tax records in a staggered difference-in-differences design. District creation increased firm revenues by an average of 13 percent over the study period, with effects emerging two years after the reform and growing thereafter. Firms increased expenditures on intermediate inputs and labor, while profits did not significantly change. Stronger local demand and improved infrastructure, including more reliable electricity, help explain these gains. Effects are concentrated in relatively symmetric district splits, with no detectable gains in highly asymmetric splits. Decentralization also strengthened central fiscal capacity by increasing effective corporate income taxation and labor income tax remittance. Overall, decentralization can stimulate private-sector activity and strengthen central revenue mobilization, but institutional design matters.
 
 </details>
-
 
 ---
 
