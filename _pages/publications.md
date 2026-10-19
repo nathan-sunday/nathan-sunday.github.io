@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Selected Publications
 
-**Peer-Reviewed Publications**
+**Papers**
 
 [**"Does Corruption Explain the Decision to Invest and the Value of Investment? Revisiting Evidence from Sub-Saharan African Firms"**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jid.70029) (with Ibrahim Mike Okumu and Edward Bbaale). *Journal of International Development*, 2025. Vol. 37: 1622–1639.  
 
