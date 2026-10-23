@@ -29,7 +29,7 @@ You can view my Research Statement [here](https://nathan-sunday.github.io/workin
 ## Job Market Paper
 
 [**Beyond Local Revenue: Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_JMP_Sunday.pdf), [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_JMP_Sunday.pdf), October 2026  <br>
-*Conferences: The [8th World Bank/ODI Global/IFS Public Finance Conference](https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference), 2026, Washington DC; [119th National Tax Association Annual Conference](https://ntanet.org/2026/02/119th-annual-conference-on-taxation-2026/) (Scheduled), 2026, Pittsburgh, PA*  
+<span style="font-size: 0.85em;">*Conferences: The [8th World Bank/ODI Global/IFS Public Finance Conference](https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference), 2026, Washington DC; [119th National Tax Association Annual Conference](https://ntanet.org/2026/02/119th-annual-conference-on-taxation-2026/) (Scheduled), 2026, Pittsburgh, PA*</span> 
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
@@ -37,7 +37,6 @@ You can view my Research Statement [here](https://nathan-sunday.github.io/workin
 Property taxation is widely viewed as a promising source of revenue for developing countries, yet evidence on its economic effects remains limited. Using administrative data from corporate and employee tax returns in a staggered difference-in-differences design, this paper shows that a property tax increase in Kampala, Uganda significantly reduced rates of firm survival. Business rental expenses increased by 6.3 percent, and firms responded by reducing formal employment and wages, with wage informalization accounting for most of the decline in the formal wage bill. Higher-earning employees of ongoing firms bore disproportionate shares of the wage declines. Within government, there were vertical fiscal externalities: the tax increase reduced central government income tax revenues by 30 percent of the amount it contributed to local property tax collections.  The estimates imply that property taxes have 53 percent marginal deadweight losses.
 
 </details>
-
 
 ---
 ## Working Papers
@@ -69,7 +68,7 @@ In many low-income countries, younger adults provide substantial financial suppo
 ## Work in Progress
 
 **Using Digital Connectivity to Expand Global Job Opportunities for African Workers**,  (with [Dean Yang](https://deanyang-econ.github.io/deanyang/), [David Mckenzie](https://sites.google.com/site/decrgdmckenzie/home?authuser=0), Heesung Kim, Robertson Khataza, and Ted Lui).  AEA RCT Registry. July 08, 2026. [https://doi.org/10.1257/rct.16818-2.0](https://doi.org/10.1257/rct.16818-2.0) <br>
-*Presented at the [2026 Annual Bank Conference on Development Economics (ABCDE)](https://www.worldbank.org/en/events/2026/06/16/abcde-2026), Washington DC*
+<span style="font-size: 0.85em;">*Conferences: The [2026 Annual Bank Conference on Development Economics (ABCDE)](https://www.worldbank.org/en/events/2026/06/16/abcde-2026), Washington DC*</span>
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
