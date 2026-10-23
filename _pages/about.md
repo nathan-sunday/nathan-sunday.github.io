@@ -53,10 +53,9 @@ Decentralization is widely argued to improve public service delivery, yet its ef
 
 ---
 
-[**Beyond the Beneficiary: Old-Age Pensions and the Labor Market Outcomes of Ineligible Adults**](https://nathan-sunday.github.io/working-papers/Old_Age_Pension_and_Labor_Market.pdf), April 2026  <br>
-*Earlier version awarded the prize for Outstanding Third Year Paper, 2024, Department of Economics, University of Michigan* <br>
-*Conferences: The [6th World Bank/IFS/ODI Public Finance Conference](https://www.worldbank.org/en/events/2024/03/01/6th-world-bank-ifs-odi-research-conference), 2024, Washington DC*
-
+[**Beyond the Beneficiary: Old-Age Pensions and the Labor Market Outcomes of Ineligible Adults**](https://nathan-sunday.github.io/working-papers/Old_Age_Pension_and_Labor_Market.pdf), April 2026 <br>
+<small><i>Awards: Earlier version awarded the prize for Outstanding Third Year Paper, 2024, Department of Economics, University of Michigan</i></small> <br>
+<small><i>Conferences: The <a href="https://www.worldbank.org/en/events/2024/03/01/6th-world-bank-ifs-odi-research-conference">6th World Bank/IFS/ODI Public Finance Conference</a>, 2024, Washington DC</i></small>
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
