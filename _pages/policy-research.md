@@ -8,7 +8,7 @@ author_profile: true
 
 **Policy Reports and Policy Briefs**
 
-[“A Rapid Assessment of the Effect of the COVID-19 Lockdown on Livelihoods and Micro, Small, and Medium Enterprises in Uganda”](https://eprcug.org/publication/a-rapid-assessment-of-the-effect-of-the-covid-19-lockdown-on-livelihoods-and-micro-small-and-medium-enterprises-in-uganda/) (with Francis Mwesigye, Tony Odokonyero, and Mildred Barungi). Economic Policy Research Centre, Policy Note 8, August 2021.
+[“A Rapid Assessment of the Effect of the COVID-19 Lockdown on Livelihoods and Micro, Small, and Medium Enterprises in Uganda”](https://eprcug.org/publication/a-rapid-assessment-of-the-effect-of-the-covid-19-lockdown-on-livelihoods-and-micro-small-and-medium-enterprises-in-uganda/) (with Francis Mwesigye, Tony Odokonyero, and Mildred Barungi). *Economic Policy Research Centre*, Policy Note 8, August 2021.
  
 [“The Effect of COVID-19 on the Operations of Agro-processing MSMEs in Uganda”](https://eprcug.org/publication/the-effect-of-covid-19-on-the-operations-of-agro-processing-msmes-in-uganda/) (with Paul Lakuma, Brian Sserunjoji, Rehema Kahunde, and Ambrose Ogwang). *Economic Policy Research Centre*, Policy Note 5, Issue 3, July 2021.
 
