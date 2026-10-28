@@ -12,7 +12,7 @@ author_profile: true
  
 [“The Effect of COVID-19 on the Operations of Agro-processing MSMEs in Uganda”](https://eprcug.org/publication/the-effect-of-covid-19-on-the-operations-of-agro-processing-msmes-in-uganda/) (with Paul Lakuma, Brian Sserunjoji, Rehema Kahunde, and Ambrose Ogwang). *Economic Policy Research Centre*, Policy Note 5, Issue 3, July 2021.
 
-[“The Plight of Micro Small and Medium Enterprises Amidst COVID-19: A post Lockdown Analysis Based on Business Climate Survey”](https://eprcug.org/publication/the-plight-of-micro-small-and-medium-enterprises-amidst-covid-19-a-post-lockdown-analysis-based-on-business-climate-survey/) (with Paul Lakuma, Brian Sserunjoji, and Rehema Kahunde). Economic Policy Research Centre, The Uganda Business Climate Special Issue No. 02, March 2021.
+[“The Plight of Micro Small and Medium Enterprises Amidst COVID-19: A post Lockdown Analysis Based on Business Climate Survey”](https://eprcug.org/publication/the-plight-of-micro-small-and-medium-enterprises-amidst-covid-19-a-post-lockdown-analysis-based-on-business-climate-survey/) (with Paul Lakuma, Brian Sserunjoji, and Rehema Kahunde). *Economic Policy Research Centre*, The Uganda Business Climate Special Issue No. 02, March 2021.
  
 [“The effects of COVID-19 lockdowns on Ugandan businesses: A comparison of the 2020 and the 2021 lockdowns”](https://eprcug.org/publication/the-effects-of-covid-19-lockdowns-on-ugandan-businesses-a-comparison-of-the-2020-and-the-2021-lockdowns/) (with Paul Lakuma, Brian Sserunjoji, Rehema Kahunde, and Ambrose Ogwang). *Economic Policy Research Centre*, The Uganda Business Climate Special Issue No. 3, August 2021.
  
