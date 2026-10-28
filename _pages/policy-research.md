@@ -25,4 +25,4 @@ The reports: [BCI, March 2021](https://eprcug.org/publication/ugandan-manufactur
 
 **Selected Blogs and Opinion Articles**
 
-[“Impact of COVID-19 on Micro, Small, and Medium Businesses in Uganda”](https://www.brookings.edu/blog/africa-in-focus/2020/05/19/impact-of-covid-19-on-micro-small-and-medium-businesses-in-uganda/) (with Paul Lakuma). Brookings, Africa in Focus, May 2020.
+[“Impact of COVID-19 on Micro, Small, and Medium Businesses in Uganda”](https://www.brookings.edu/blog/africa-in-focus/2020/05/19/impact-of-covid-19-on-micro-small-and-medium-businesses-in-uganda/) (with Paul Lakuma). *Brookings, Africa in Focus*, May 2020.
