@@ -4,7 +4,6 @@ title: ""
 author_profile: true
 ---
 
----
 ## Job Market Paper
 
 [**Beyond Local Revenue: Commercial Property Taxes, Firm Behavior, and Fiscal Externalities**](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_JMP_Sunday.pdf), [[PDF]](https://nathan-sunday.github.io/working-papers/Property_Tax_Firms_JMP_Sunday.pdf), October 2026  <br>
