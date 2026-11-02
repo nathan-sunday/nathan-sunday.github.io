@@ -15,14 +15,12 @@ I am a PhD candidate in the [Department of Economics](https://lsa.umich.edu/econ
 
 My research focuses on public finance with applications in developing countries. I examine how taxes, transfers, and institutional reforms shape firms, labor markets, and broader economic development. My current work uses administrative firm-level tax data from Uganda to study how property taxation and decentralization affect firm activity and the fiscal capacity of the central government, as well as their broader welfare implications. 
 
-
-I previously worked as a Research Analyst at the [Economic Policy Research Centre (EPRC)](https://eprcug.org/), a policy research think tank in Uganda. I have also gained exposure to national development planning processes through my role as a PhD Fellow at the [National Planning Authority (Uganda)](https://npa.go.ug/) in the summer of 2024. I hold a Master of Arts in Economics and a Bachelor of Science in Education (Economics and Mathematics) from Makerere University.
+I previously worked as a Research Analyst at the [Economic Policy Research Centre (EPRC)](https://eprcug.org/), a policy research think tank in Uganda. In the summer of 2024, I also served as a PhD Fellow at the [National Planning Authority (Uganda)](https://npa.go.ug/), contributing to the preparation of the country's Fourth National Development Plan. I hold a Master of Arts in Economics and a Bachelor of Science in Education (Economics and Mathematics) from Makerere University.
 
 You can view my CV [here](https://nathan-sunday.github.io/working-papers/CV_2026_Sunday.pdf). <br>
 You can view my Research Statement [here](https://nathan-sunday.github.io/working-papers/Research_Statement_Sunday.pdf).
 
 **Contact:** [nsunday@umich.edu](mailto:nsunday@umich.edu)  
-
 
 
 ---
